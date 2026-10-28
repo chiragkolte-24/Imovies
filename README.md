@@ -210,13 +210,7 @@ netstat -ano | findstr :5000
 - Advanced filters, ratings, and reviews.
 - Admin analytics and reports.
 
-## Academic Project Information
 
-- **Project name:** IMovies — Movie Ticket Booking System
-- **Project type:** B.Tech CSE / MERN full-stack college project
-- **Team ID:** _Add your team ID_
-- **Contributors:** _Add team member names_
-- **Institution:** _Add institution name_
 
 ---
 
